@@ -1,0 +1,27 @@
+{
+    "name": "food-festival",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "webpack": "^4.32.2",
+        "webpack-cli": "^3.3.2"
+    },
+    "scripts": {
+        "webpack": "webpack --watch",
+        "build": "webpack",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aznjp/food-bananza.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aznjp/food-bananza/issues"
+    },
+    "homepage": "https://github.com/aznjp/food-bananza#readme"
+}
