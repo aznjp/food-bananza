@@ -4,7 +4,9 @@
     "description": "",
     "main": "index.js",
     "dependencies": {
-        "jquery": "^3.5.1"
+        "bootstrap": "^4.5.3",
+        "jquery": "^3.5.1",
+        "popper.js": "^1.16.1"
     },
     "devDependencies": {
         "webpack": "^4.32.2",
